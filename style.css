@@ -1,0 +1,179 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: "PT Serif", serif;
+    color: #3f1e0e;
+   
+}
+
+header{
+    width: 100%;
+    height: 125px;
+    background-color:#cc8e5b;
+    letter-spacing: 5px;
+}
+
+header h1{
+    font-family: "Black Ops One", system-ui;
+    font-size: 70px;
+    font-weight: 800;
+    color:#3f1e0e;
+    text-align: center;
+    padding: 5px;
+}
+
+header h4{
+    font-family: "Zeyada", cursive;
+    color: rgb(79, 6, 6);
+    text-align: center;
+    position: sticky;
+    top: 0px;
+}
+
+body{
+    background-color: #fff2cf;
+}
+
+#p1{
+    text-align: center;
+    font-family: "Raleway", sans-serif;
+    font-size: 50px;
+    font-weight: 400;
+    letter-spacing: 2px;
+    padding: 2px;
+}
+
+div{
+    display:flex;
+    justify-content: center;
+    
+}
+
+#p2{
+    height: 200px;
+    width: 500px;
+    padding: 40px;
+    border: #3f1e0e solid 2px ;
+    text-align:justify;
+}
+
+h2{
+    text-align: center;
+    font-family: "Ga Maamli", sans-serif;
+    padding: 10px;
+    font-size: 30px;
+    letter-spacing: 2px;
+}
+
+#p3{
+    text-align: justify;
+    padding: 20px;
+}
+
+ul{
+    padding: 30px;
+    text-align: justify;
+}
+
+#topbrands{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 0px;
+    text-align: justify;
+    width: 800px;
+    height: 1100px;
+    padding: 0px 300px 20px 650px;
+    margin-top: -60px;
+    
+}
+
+tr{
+    border: 5px;
+}
+
+td{
+    border: 5px;
+    align-content: space-evenly;
+}
+
+span{
+   background-color: #cc8e5b;
+}
+
+div img{
+    width: 400px;
+    height: 200px;
+}
+
+span img{
+    width: 400px;
+    height: 200px;
+}
+
+#p4{
+    text-align: center;
+    letter-spacing: 2px;
+    font-size: 40px;
+    margin-bottom: 0px;
+    margin-top: 20px;
+}
+
+#query{
+    background-color: #cc8e5b;
+    padding: 15px 40px 10px 40px;
+    border: #3f1e0e ;
+    width: 400px;
+    height: 160px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-left: 440px;
+    margin-top: -70px;
+}
+
+footer {
+    
+    padding: 50px;
+    background-color: #cc8e5b;
+    width: 100%;
+    height: 105px;
+}
+
+#icon{
+    
+    font-size:100px;
+    margin-top: 40px;
+}
+
+#reach{
+    width: 400px;
+    height: 100px;
+    background-color: #cc8e5b;
+    margin-left: 350px;
+    padding-top: -60px;
+    margin-top: -100px;
+}
+
+thead{
+    font-size: 30px;
+}
+
+#div{
+    
+    width:300px ;
+    height:100px ;
+}
+
+#address{
+    width: 200px;
+    height: 110px;
+    background-color: #cc8e5b;
+    margin-left: 900px;
+    padding-top: -60px;
+    margin-top: -120px;
+    font-size: 17px;
+    
+}
